@@ -87,3 +87,8 @@ body {
   background: linear-gradient(#ffc107, transparent);
   filter: blur(20px);
 }
+
+body::after {
+  align-content: center;
+  align-items: center;
+}
