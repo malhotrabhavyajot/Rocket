@@ -87,3 +87,8 @@ body {
   background: linear-gradient(#ffc107, transparent);
   filter: blur(20px);
 }
+
+body::after {
+  width: max-content;
+  height: max-content;
+}
