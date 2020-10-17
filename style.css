@@ -87,9 +87,3 @@ body {
   background: linear-gradient(#ffc107, transparent);
   filter: blur(20px);
 }
-
-.pulse::after {
-  align-content: center;
-  width: 60%;
-  height: 60%;
-}
